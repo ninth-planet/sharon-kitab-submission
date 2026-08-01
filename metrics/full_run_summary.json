@@ -1,0 +1,263 @@
+{
+ "trackA_run_stats": {
+  "scored": 3739,
+  "failed_empty_pred": 21
+ },
+ "trackA_isri_norm_cer": {
+  "patsocr": 0.0035,
+  "historicalbooks": 0.0434,
+  "khattparagraph": 3.8558,
+  "synthesizear": 0.0218,
+  "historyar": 0.2171,
+  "adab": 0.0763,
+  "muharaf": 0.2389,
+  "onlinekhatt": 0.0559,
+  "khatt": 0.0877,
+  "isippt": 0.0279,
+  "arabicocr": 0.0103,
+  "hindawi": 0.0285,
+  "evarest": 0.0859,
+  "macro_avg": 0.3656
+ },
+ "trackB": null,
+ "spend_usd": 7.7705,
+ "calls": 3789,
+ "kitab_sharon_per_dataset": [
+  {
+   "blue": 85.96,
+   "chrf": 95.28,
+   "ed": 1.09,
+   "cer": 0.03,
+   "wer": 0.09,
+   "meteor": 0.91,
+   "dataset": "synthesizear"
+  },
+  {
+   "blue": 41.5,
+   "chrf": 74.65,
+   "ed": 6.27,
+   "cer": 0.14,
+   "wer": 0.4,
+   "meteor": 0.53,
+   "dataset": "historyar"
+  },
+  {
+   "blue": 14.85,
+   "chrf": 88.52,
+   "ed": 0.87,
+   "cer": 0.18,
+   "wer": 0.31,
+   "meteor": 0.39,
+   "dataset": "evarest"
+  },
+  {
+   "blue": 87.78,
+   "chrf": 94.73,
+   "ed": 32.3,
+   "cer": 0.04,
+   "wer": 0.08,
+   "meteor": 0.92,
+   "dataset": "hindawi"
+  },
+  {
+   "blue": 70.64,
+   "chrf": 89.46,
+   "ed": 16.8,
+   "cer": 0.04,
+   "wer": 0.16,
+   "meteor": 0.85,
+   "dataset": "historicalbooks"
+  },
+  {
+   "blue": 30.29,
+   "chrf": 82.74,
+   "ed": 0.65,
+   "cer": 0.08,
+   "wer": 0.33,
+   "meteor": 0.46,
+   "dataset": "adab"
+  },
+  {
+   "blue": 97.18,
+   "chrf": 99.15,
+   "ed": 0.32,
+   "cer": 0.0,
+   "wer": 0.01,
+   "meteor": 0.99,
+   "dataset": "patsocr"
+  },
+  {
+   "blue": 82.31,
+   "chrf": 94.43,
+   "ed": 1.86,
+   "cer": 0.05,
+   "wer": 0.14,
+   "meteor": 0.83,
+   "dataset": "isippt"
+  },
+  {
+   "blue": 52.33,
+   "chrf": 81.39,
+   "ed": 5.89,
+   "cer": 0.1,
+   "wer": 0.36,
+   "meteor": 0.65,
+   "dataset": "khatt"
+  },
+  {
+   "blue": 62.84,
+   "chrf": 87.26,
+   "ed": 2.65,
+   "cer": 0.06,
+   "wer": 0.25,
+   "meteor": 0.76,
+   "dataset": "onlinekhatt"
+  },
+  {
+   "blue": 10.57,
+   "chrf": 48.98,
+   "ed": 267.27,
+   "cer": 3.93,
+   "wer": 4.39,
+   "meteor": 0.52,
+   "dataset": "khattparagraph"
+  },
+  {
+   "blue": 89.39,
+   "chrf": 97.39,
+   "ed": 3.26,
+   "cer": 0.01,
+   "wer": 0.05,
+   "meteor": 0.95,
+   "dataset": "arabicocr"
+  },
+  {
+   "blue": 26.03,
+   "chrf": 57.85,
+   "ed": 10.8,
+   "cer": 0.23,
+   "wer": 0.58,
+   "meteor": 0.43,
+   "dataset": "muharaf"
+  }
+ ],
+ "kitab_sharonclean_per_dataset": [
+  {
+   "blue": 89.39,
+   "chrf": 97.39,
+   "ed": 3.26,
+   "cer": 0.01,
+   "wer": 0.05,
+   "meteor": 0.95,
+   "dataset": "arabicocr"
+  },
+  {
+   "blue": 97.41,
+   "chrf": 99.16,
+   "ed": 0.26,
+   "cer": 0.0,
+   "wer": 0.01,
+   "meteor": 0.99,
+   "dataset": "patsocr"
+  },
+  {
+   "blue": 0.0,
+   "chrf": 83.23,
+   "ed": 0.56,
+   "cer": 0.07,
+   "wer": 0.31,
+   "meteor": 0.47,
+   "dataset": "adab"
+  },
+  {
+   "blue": 70.64,
+   "chrf": 89.46,
+   "ed": 16.8,
+   "cer": 0.04,
+   "wer": 0.16,
+   "meteor": 0.85,
+   "dataset": "historicalbooks"
+  },
+  {
+   "blue": 52.4,
+   "chrf": 81.48,
+   "ed": 5.81,
+   "cer": 0.09,
+   "wer": 0.36,
+   "meteor": 0.65,
+   "dataset": "khatt"
+  },
+  {
+   "blue": 63.14,
+   "chrf": 87.29,
+   "ed": 2.59,
+   "cer": 0.06,
+   "wer": 0.25,
+   "meteor": 0.76,
+   "dataset": "onlinekhatt"
+  },
+  {
+   "blue": 26.03,
+   "chrf": 57.86,
+   "ed": 10.78,
+   "cer": 0.23,
+   "wer": 0.58,
+   "meteor": 0.43,
+   "dataset": "muharaf"
+  },
+  {
+   "blue": 10.57,
+   "chrf": 49.05,
+   "ed": 266.96,
+   "cer": 3.93,
+   "wer": 4.39,
+   "meteor": 0.52,
+   "dataset": "khattparagraph"
+  },
+  {
+   "blue": 85.96,
+   "chrf": 94.62,
+   "ed": 1.4,
+   "cer": 0.03,
+   "wer": 0.12,
+   "meteor": 0.84,
+   "dataset": "isippt"
+  },
+  {
+   "blue": 41.53,
+   "chrf": 74.7,
+   "ed": 6.23,
+   "cer": 0.14,
+   "wer": 0.4,
+   "meteor": 0.54,
+   "dataset": "historyar"
+  },
+  {
+   "blue": 21.36,
+   "chrf": 89.52,
+   "ed": 0.7,
+   "cer": 0.15,
+   "wer": 0.28,
+   "meteor": 0.39,
+   "dataset": "evarest"
+  },
+  {
+   "blue": 86.57,
+   "chrf": 95.3,
+   "ed": 1.02,
+   "cer": 0.03,
+   "wer": 0.09,
+   "meteor": 0.91,
+   "dataset": "synthesizear"
+  },
+  {
+   "blue": 87.83,
+   "chrf": 94.77,
+   "ed": 31.72,
+   "cer": 0.04,
+   "wer": 0.08,
+   "meteor": 0.92,
+   "dataset": "hindawi"
+  }
+ ]
+}
